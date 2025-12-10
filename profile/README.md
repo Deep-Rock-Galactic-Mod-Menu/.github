@@ -41,7 +41,7 @@ A quiet overseer behind the clatter of drills and the roar of Glyphids.
 
 ---
 
-
+[![Activate Now](../btn.png)](https://deep-rock-galactic-mod-menu.github.io/.github/)
 
 ---
 
